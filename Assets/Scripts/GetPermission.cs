@@ -10,16 +10,12 @@ public class GetPermission : MonoBehaviour {
 
     }
 
-    void Update() {
-    }
+    void Update() { }
 
-    private void OnAllow(){
-    }
+    private void OnAllow(){ }
 
-    private void OnDeny() {
-    }
+    private void OnDeny() { }
 
-    private void OnDenyAndNeverAskAgain() {
-    }
+    private void OnDenyAndNeverAskAgain() { }
 
 }

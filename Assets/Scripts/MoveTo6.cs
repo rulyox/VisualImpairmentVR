@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class MoveHideC : MonoBehaviour {
+public class MoveTo6 : MonoBehaviour {
 
     float time = 0.0f;
 

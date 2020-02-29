@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class MoveDistort : MonoBehaviour {
+public class MoveTo3 : MonoBehaviour {
 
     float time = 0.0f;
 

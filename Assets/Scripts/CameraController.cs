@@ -6,6 +6,7 @@ public class CameraController : MonoBehaviour {
 	public GameObject Plane;
 
 	void Start () {
+
 		Plane = GameObject.FindWithTag ("Player");
 
 		mCamera = new WebCamTexture ();

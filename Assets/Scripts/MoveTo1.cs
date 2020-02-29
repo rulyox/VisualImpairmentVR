@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class MoveOri : MonoBehaviour {
+public class MoveTo1 : MonoBehaviour {
 
     void Start() { }
 

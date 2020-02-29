@@ -1,8 +1,8 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class MoveHideA : MonoBehaviour {
+public class MoveTo2 : MonoBehaviour {
 
     float time = 0.0f;
 
@@ -11,7 +11,7 @@ public class MoveHideA : MonoBehaviour {
     void Update() {
 
         time += Time.deltaTime;
-        if (time >= 10.0f) SceneManager.LoadScene(4);
+        if (time >= 10.0f) SceneManager.LoadScene(2);
 
     }
 

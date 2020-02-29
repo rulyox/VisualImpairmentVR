@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class MoveHideB : MonoBehaviour {
+public class MoveToStart : MonoBehaviour {
 
     float time = 0.0f;
 
@@ -11,7 +11,7 @@ public class MoveHideB : MonoBehaviour {
     void Update() {
 
         time += Time.deltaTime;
-        if (time >= 10.0f) SceneManager.LoadScene(5);
+        if (time >= 10.0f) SceneManager.LoadScene(0);
 
     }
 

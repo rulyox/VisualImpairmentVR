@@ -1,5 +1,7 @@
 # Visual Impairment VR
 
+![image](image.png)
+
 Android Cardboard VR app for experiencing visual impairment.
 
 
